@@ -1,1 +1,7 @@
 node_modules/
+# file start with "z"
+z*
+# dotenv environment variables file
+.env
+# top-level directory named artifacts
+/artifacts/
